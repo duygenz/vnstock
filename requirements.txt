@@ -1,7 +1,6 @@
 fastapi==0.111.0
 uvicorn[standard]==0.30.1
 requests==2.32.3
-python-dotenv==1.0.1  # nếu bạn muốn quản lý biến môi trường
 pandas==2.2.1
 bs4==0.0.2
 vnai>=2.0
